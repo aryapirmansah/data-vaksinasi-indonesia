@@ -1,0 +1,35 @@
+{
+    "pemeriksaan": {
+        "penambahan": {
+            "jumlah_spesimen_pcr_tcm": 101430,
+            "jumlah_spesimen_antigen": 57789,
+            "jumlah_orang_pcr_tcm": 79792,
+            "jumlah_orang_antigen": 48263,
+            "tanggal": "2021-07-11",
+            "created": "2021-07-11 15:47:06"
+        },
+        "harian": [
+            {
+                "key_as_string": "2021-07-11",
+                "key": 1625961600000,
+                "doc_count": 1,
+                "jumlah_vaksinasi_2": {
+                    "value": 42018
+                },
+                "jumlah_vaksinasi_1": {
+                    "value": 73943
+                },
+                "jumlah_jumlah_vaksinasi_1_kum": {
+                    "value": 36267019
+                },
+                "jumlah_jumlah_vaksinasi_2_kum": {
+                    "value": 15011348
+                }
+            }
+        ],
+        "total": {
+            "jumlah_vaksinasi_1": 36267019,
+            "jumlah_vaksinasi_2": 15011348
+        }
+    }
+}
