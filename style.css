@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    font-size: 18pt;
+   
+  }
+  .header {
+    background-color: #1E1D59;
+    color: #fff;
+    height: 90px;
+    padding: 20px;
+    width: 100%;
+    
+  }
+  
+  .header-name {
+    float: left;
+    font-size: 36px;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:40px;
+    padding-right:40px;
+  }
+    .utama{
+        height: 600px;
+}
+  button{
+      text-align: center;
+      background-color: #1E1D59;
+  }
+  .kasus{
+    height: 50px;
+    width: 300px;
+    font-size: 20px;
+    color: #fff;
+  }
+  .vaksin{
+    height: 50px;
+    width: 300px;
+    font-size: 20px;
+    color: #fff;
+  }
+  .footer {
+    background-color:#2f5167;
+    height:120px;
+    color:#fff;
+    height: 20px;
+    padding:10px;
+    
+  }
+  .footer-name{
+    font-size:18px;
+    text-align:center;
+  }
